@@ -1,0 +1,10 @@
+<html>
+<head>
+<title> Learn to code </title>
+</head>
+<body>
+<h1> Welcome </h1>
+<p>Here you can learn to code in HTML, C++, C, Java, Python and many others</p>
+<img src = "https://www.google.com/imgres?imgurl=https%3A%2F%2Fassets.pcmag.com%2Fmedia%2Fimages%2F405963-learn-to-code.jpg&imgrefurl=https%3A%2F%2Fsea.pcmag.com%2Ffirst-looks%2F8010%2Fthe-best-programs-for-learning-to-code&tbnid=X9MVEIKgXOSVhM&vet=12ahUKEwjCtrqegtTzAhWJm6QKHevyANAQMygJegUIARDMAQ..i&docid=UbDIHJNLbW9miM&w=810&h=456&q=learn%20to%20code&ved=2ahUKEwjCtrqegtTzAhWJm6QKHevyANAQMygJegUIARDMAQ" width = "505" height = "auto">
+</body>
+</html>
